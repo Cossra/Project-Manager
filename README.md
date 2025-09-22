@@ -10,7 +10,7 @@ A web-based project management application built with Spring Boot. This tool all
 - Dashboard for project overview
 
 ## Technologies Used
-- Java 8
+- Java 17
 - Spring Boot
 - JSP
 - MySQL
